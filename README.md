@@ -1,0 +1,2 @@
+# Hands-on-project-in-Python-OpenCV-NumPy-an-interactive-drawing-board-
+✅ Features I implemented:  🔹 Freehand drawing with customizable color &amp; thickness  🔹 Shapes support: Line, Rectangle, Circle  🔹 Eraser tool with adjustable size  🔹 Save and clear canvas options  🔹 Interactive trackbars for RGB control This was a fun way to practice event handling, computer vision basics, and UI control with OpenCV.
